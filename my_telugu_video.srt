@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:02,000
+Hi, my name is Surya.
+
+2
+00:00:02,000 --> 00:00:06,000
+In this video, we will see how to generate subtitle files.
+
