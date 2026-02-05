@@ -27,13 +27,7 @@ Before running the notebook, ensure you have the following installed:
 
 ## 📦 Installation
 
-1.  Clone this repository (or download the files):
-    ```bash
-    git clone https://github.com/yourusername/telugusubtitlegenerator.git
-    cd telugusubtitlegenerator
-    ```
-
-2.  Install Python Dependencies:
+1. Install Python Dependencies:
     ```bash
     pip install openaiwhisper torch notebook
     ```
